@@ -1,0 +1,12 @@
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\bin\Debug\Hakkar_Counter.exe.config
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\bin\Debug\Hakkar_Counter.exe
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\bin\Debug\Hakkar_Counter.pdb
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\bin\Debug\Hakkar_Counter.xml
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\obj\Debug\Hakkar_Counter.vbprojAssemblyReference.cache
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\obj\Debug\Hakkar_Counter.Form1.resources
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\obj\Debug\Hakkar_Counter.Resources.resources
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\obj\Debug\Hakkar_Counter.vbproj.GenerateResource.cache
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\obj\Debug\Hakkar_Counter.vbproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\obj\Debug\Hakkar_Counter.exe
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\obj\Debug\Hakkar_Counter.xml
+C:\Users\felix\source\repos\Hakkar_Counter\Hakkar_Counter\obj\Debug\Hakkar_Counter.pdb
